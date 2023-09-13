@@ -25,7 +25,7 @@ p {
 }
 
 img {
-    display: flex;
+    display: block;
     width: 250px;
     margin: auto;
     border: 10px dashed #ffffff;
